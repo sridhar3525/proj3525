@@ -1,0 +1,25 @@
+To remove the 404 error in the following command
+
+Sudo apt-get update 
+
+Follow the below steps
+
+1) Go to search type "Update-Manager"
+
+2) Select Ubuntu Software Tab
+
+3) Select other server option from server selection box
+
+3 a) From the list of servers available click "SELECT BEST SERVER OPTION"
+
+4) Click Ok
+
+Optional
+
+5) Go to other software tab,
+ 
+  5a)  Check whether all the options are ticked
+  
+6) Finally click close
+
+On clicking close check whether the updating cache dialog box appears!!
