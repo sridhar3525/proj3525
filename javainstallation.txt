@@ -1,0 +1,7 @@
+
+1) Download the tar file named jdk-8u65-linux-x64.tar.gz
+
+Ubuntu link 
+
+http://askubuntu.com/questions/56104/how-can-i-install-sun-oracles-proprietary-java-jdk-6-7-8-or-jre
+
